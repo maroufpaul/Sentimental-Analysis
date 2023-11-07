@@ -19,7 +19,7 @@ Contributions to this project are welcome. Please fork the repository, make your
 
 
 ## Authors
-- [Marouf Mohammad]
+- Marouf Mohammad
 
 
 
